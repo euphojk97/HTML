@@ -1,5 +1,8 @@
-# HTML
-HTML
+# JavaScript
+JavaScript
+
+
+
 'use strict'
 const gris = document.querySelector('#gris');
 const naranja = document.querySelector('#naranja');
